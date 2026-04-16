@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+figures/
+*.xlsx
+*.csv
+*.png
+*.pdf
+!papers/*.pdf
+*.zip
+cf_ida.csv
+cf_wx.csv
