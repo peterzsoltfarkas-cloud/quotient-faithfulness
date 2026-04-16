@@ -3,7 +3,7 @@
 Companion code for the paper series on quotient faithfulness in representation learning.
 
 **Peter Farkas** — Åbo Akademi University, DAZE Project  
-LinkedIn: [Paper I](https://www.linkedin.com/in/peter-farkas-data/)
+LinkedIn: (https://www.linkedin.com/in/peter-farkas-11b17841/)
 
 ---
 
