@@ -11,7 +11,7 @@ LinkedIn: [Paper I](https://www.linkedin.com/in/peter-farkas-data/)
 
 | Paper | Title | Status |
 |-------|-------|--------|
-| I (2026a) | *Task Sufficiency Does Not Certify Quotient Faithfulness* | Published |
+| I (2026a) | *Task Sufficiency Does Not Certify Quotient Faithfulness* | Draft |
 | II (2026b) | *Admissibility Sources and Stochastic Quotient Recovery* | Draft |
 | III (2026c) | *Architecture Bounds for Quotient-Faithful Representation* | Draft |
 | IV (2026d) | *Six Traditions, Fourteen Reframings* | Draft |
