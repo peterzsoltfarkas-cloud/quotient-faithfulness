@@ -8,6 +8,7 @@ figures/
 *.png
 *.pdf
 !papers/*.pdf
+!rephrased_paper/*.pdf
 *.zip
 cf_ida.csv
 cf_wx.csv
